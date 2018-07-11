@@ -1,0 +1,8 @@
+Symlinking /home/roktober/git_fulab/ws/devel/./_setup_util.py
+Symlinking /home/roktober/git_fulab/ws/devel/./setup.bash
+Symlinking /home/roktober/git_fulab/ws/devel/./setup.zsh
+Symlinking /home/roktober/git_fulab/ws/devel/./env.sh
+Symlinking /home/roktober/git_fulab/ws/devel/./setup.sh
+Symlinking /home/roktober/git_fulab/ws/devel/lib/pkgconfig/catkin_tools_prebuild.pc
+Symlinking /home/roktober/git_fulab/ws/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/roktober/git_fulab/ws/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake

@@ -1,0 +1,6 @@
+devel_space: /home/roktober/git_fulab/ws/devel
+install: false
+install_space: /home/roktober/git_fulab/ws/install
+profile: default
+source_space: /home/roktober/git_fulab/ws/src
+workspace: /home/roktober/git_fulab/ws

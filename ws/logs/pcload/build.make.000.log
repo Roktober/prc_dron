@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target pcload[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/pcload.dir/main.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/roktober/git_fulab/ws/devel/.private/pcload/lib/pcload/pcload[0m
+[100%] Built target pcload
